@@ -1,0 +1,16 @@
+{
+    "ValidFileType": ["jpg", "png"],
+    "LocalTempDataPath": "temp_data",
+    "MayaOPDatabase": "MayaOPDatabase.sqlite",
+    "DatabasePath": "temp_data_database",
+    "ShadowMaskPath": "temp_data_shadow_mask",
+    "ServerTempPath": "E:\\VHQ\\camera-track-study\\track-with-model\\CameraTrackModelAlignment_py310_operationally\\cam_track_service\\SFMTemp",
+    "SFMServiceDir": "E:\\VHQ\\camera-track-study\\track-with-model\\CameraTrackModelAlignment_py310_operationally\\cam_track_service",
+    "CameraTranslationJsonFile": "camera_translations.json",
+    "WorldPointsJsonFile": "sfm_world_points.json",
+    "UserTaggedJsonFile": "use_tagged_points.json",
+    "TNTaggedImagePoints": "TaggedImagePoints",
+    "TNTaggedWorldPoints": "TaggedWorldPoints",
+    "TNSessionManagement": "SessionManagement",
+    "TNOperations": "Operations"
+}

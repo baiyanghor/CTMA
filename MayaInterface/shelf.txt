@@ -1,0 +1,9 @@
+import sys
+work_dir = "E:/VHQ/camera-track-study/track-with-model/CameraTrackModelAlignment_py310_operationally/MayaInterface"
+if work_dir not in sys.path:
+    sys.path.append(work_dir)
+
+import MayaControl
+reload(MayaControl)
+mayaInterface = MayaControl.MayaInterfaceController(localWorkDir=work_dir)
+mayaInterface.exe()

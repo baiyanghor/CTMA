@@ -1,0 +1,26 @@
+{
+    "1000": {
+        "1": {
+            "operation_name": "tag_points"
+        },
+        "2": {
+            "operation_name": "tag_points"
+        }
+    },
+    "2000": {
+        "1": {
+            "operation_name": "new_session"
+        },
+        "2": {
+            "operation_name": "tag_points"
+        },
+        "4": {
+            "operation_name": "new_session"
+        }
+    },
+    "3000": {
+        "1": {
+            "operation_name": "tag_points"
+        }
+    }
+}
