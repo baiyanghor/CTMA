@@ -33,3 +33,8 @@ opencv-python
 ## Database Design
 
 <img width="2156" alt="Database" src="https://github.com/baiyanghor/CTMA/assets/22685081/43b3db95-2275-4f2b-acfd-0b2d79dca48f">
+
+## Main User Interface
+
+<img width="960" alt="user-interface" src="https://github.com/baiyanghor/CTMA/assets/22685081/f546204a-a1dc-4d5c-8a02-e78855f147a5">
+
